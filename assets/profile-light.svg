@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Nikita Dibrov — Backend, AI and distributed systems</title>
+<desc id="desc">Five years in commercial development, bronze at the Russian Sports Programming Championship 2025, four registered UAV programs. Visit ndibrov.ru.</desc>
+<defs>
+ <pattern id="dots" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#3853ea" opacity=".18"/></pattern>
+ <radialGradient id="fade"><stop stop-color="white"/><stop offset="1" stop-color="black"/></radialGradient>
+ <mask id="grid"><rect x="490" width="430" height="290" fill="url(#fade)"/></mask>
+</defs>
+<rect x=".5" y=".5" width="919" height="379" rx="24" fill="#ffffff" stroke="#d1d9e0"/>
+<rect x="480" y="1" width="439" height="269" fill="url(#dots)" mask="url(#grid)"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+ <text x="36" y="43" fill="#59636e" font-size="12" font-weight="600" letter-spacing="2">NIKITA DIBROV / @DIBROVNIK</text>
+ <text x="36" y="106" fill="#1f2328" font-size="44" font-weight="650" letter-spacing="-1.5">Backend. AI.</text>
+ <text x="36" y="157" fill="#1f2328" font-size="44" font-weight="650" letter-spacing="-1.5">Systems that work.</text>
+ <text x="36" y="193" fill="#59636e" font-size="16">APIs, automation &amp; distributed systems.</text>
+ <g font-size="12" font-weight="600" fill="#3853ea">
+  <rect x="36" y="219" width="92" height="28" rx="8" fill="#eef1ff"/><text x="49" y="238">TypeScript</text>
+  <rect x="136" y="219" width="76" height="28" rx="8" fill="#eef1ff"/><text x="150" y="238">Node.js</text>
+  <rect x="220" y="219" width="65" height="28" rx="8" fill="#eef1ff"/><text x="235" y="238">MCP</text>
+  <rect x="293" y="219" width="82" height="28" rx="8" fill="#eef1ff"/><text x="308" y="238">Highload</text>
+ </g>
+ <g stroke="#d1d9e0" stroke-width="1.5" stroke-dasharray="4 6">
+  <path d="M657 102H747V146"/><path d="M660 161H591V211H735"/>
+ </g>
+ <g transform="rotate(-7 672 148)">
+  <rect x="614" y="90" width="116" height="116" rx="30" fill="#eef1ff" stroke="#d1d9e0"/>
+  <text x="672" y="162" fill="#3853ea" font-size="40" font-weight="700" text-anchor="middle" letter-spacing="-2">nd.</text>
+ </g>
+ <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="600" text-anchor="middle">
+  <rect x="759" y="61" width="68" height="38" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/><text x="793" y="85" fill="#1f2328">API</text>
+  <rect x="773" y="148" width="68" height="38" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/><text x="807" y="172" fill="#3853ea">MCP</text>
+  <rect x="715" y="211" width="68" height="38" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/><text x="749" y="235" fill="#1f2328">LLM</text>
+ </g>
+ <circle cx="605" cy="67" r="4" fill="#3853ea"/><circle cx="850" cy="220" r="3" fill="#3853ea" opacity=".5"/>
+<rect x="36" y="277" width="272" height="75" rx="16" fill="#f6f8fa" stroke="#d1d9e0"/>
+ <text x="54" y="326" fill="#3853ea" font-size="34" font-weight="600">5</text>
+ <text x="111" y="308" fill="#1f2328" font-size="13" font-weight="500">years in commercial</text>
+ <text x="111" y="329" fill="#59636e" font-size="12">development</text>
+<rect x="324" y="277" width="272" height="75" rx="16" fill="#f6f8fa" stroke="#d1d9e0"/>
+ <text x="342" y="326" fill="#3853ea" font-size="34" font-weight="600">III</text>
+ <text x="399" y="308" fill="#1f2328" font-size="13" font-weight="500">Russian Championship</text>
+ <text x="399" y="329" fill="#59636e" font-size="12">sports programming · 2025</text>
+<rect x="612" y="277" width="272" height="75" rx="16" fill="#f6f8fa" stroke="#d1d9e0"/>
+ <text x="630" y="326" fill="#3853ea" font-size="34" font-weight="600">4</text>
+ <text x="687" y="308" fill="#1f2328" font-size="13" font-weight="500">registered programs</text>
+ <text x="687" y="329" fill="#59636e" font-size="12">for UAVs</text>
+</g></svg>
